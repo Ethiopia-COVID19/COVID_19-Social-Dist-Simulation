@@ -1,11 +1,5 @@
-## Link to medium article: https://towardsdatascience.com/covid-19-social-distancing-simulation-f091a58732f9
+## Link to LinkedIn article: https://www.linkedin.com/pulse/ethiopia-simulating-impact-social-distancing-million-a-mengistu/
 
-## Disclaimer
+Jupyter notebook for the codes https://github.com/Ethiopia-COVID19/COVID_19-Social-Dist-Simulation/blob/master/Social%20distancing%20simulator%20-%20Ethiopia.ipynb
 
-I am not an epidemiologist so I can’t guarantee 100% that the scenarios above will become reality. I believe the visualizations would help explaining the impact of “social distancing” and through that, I want to emphasize that everyone plays an important role here in this pandemic.
-
-Please keep in mind that this is a simple SEIR+DH model and the available data used to train the model was limited in the moment of writing the article. 
-
-Furthermore, I hope this will inspire people to explore more on the numbers and models beside sticking to just mainstream medias and potentially not-so-reliable news.
-
-Please refer to the Jupyter notebook for the codes https://github.com/o0oBluePhoenixo0o/COVID_19-Social-Dist-Simulation/blob/master/COVID-19%20Social%20Dist%20Simulator%20Modeling.ipynb
+Jupyter notebook with nbviwer for visualizations  https://nbviewer.jupyter.org/github/Ethiopia-COVID19/COVID_19-Social-Dist-Simulation/blob/29994958a6d242ed6ef4f434500d2437d5992b42/Social%20distancing%20simulator%20-%20Ethiopia.ipynb
